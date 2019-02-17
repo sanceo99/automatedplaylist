@@ -1,7 +1,7 @@
 # automatedplaylist
 Python program which adds yours Shazam songs to Youtube playlist
 
-#Setup
+# Setup
 In order to use the program, complete keys.py file
 
 
