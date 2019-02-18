@@ -5,6 +5,9 @@ Python bot written using Selenium, adds yours Shazamed songs to Youtube watchlat
 Use program with Facebook linked account to Shazam
 In order to use the program, complete keys.py file
 
+# Running the script
+python youtube.py
+
 # What I Learned
 
 * Learned Selenium library 
