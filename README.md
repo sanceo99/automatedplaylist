@@ -12,4 +12,6 @@ In order to use the program, complete keys.py file
 * Learned more about strings and theirs mothodes
 
 
-Libraries used: selenium, time,
+# Libraries used:
+* Selenium
+* Time
