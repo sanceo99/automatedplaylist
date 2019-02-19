@@ -8,6 +8,13 @@ In order to use the program, complete keys.py file
 # Running the script
 python youtube.py
 
+# Future development plan
+
+* Improve algorytm of adding songs, ignore songs that are already in the playlist  
+* Start using a database
+* Creating a web service
+* Integration with other music streams : Soundcloud, SPotify ...
+
 # What I Learned
 
 * Learned Selenium library 
@@ -18,3 +25,5 @@ python youtube.py
 # Libraries used:
 * Selenium
 * Time
+
+
